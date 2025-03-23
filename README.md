@@ -1,2 +1,2 @@
-## Honesty Policy
-- Please refer to www.cs50.harvard.edu/x/2025/honesty/
+##  Course website
+- https://cs231n.github.io/
